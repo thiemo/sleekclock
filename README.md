@@ -3,6 +3,8 @@ Sleekclock
 
 A nice clock screensaver for Mac OS X
 
+![preview thumb](http://i.imgur.com/DnEb5.png)
+
 
 ### Installation:
 - [Download from here][1]
